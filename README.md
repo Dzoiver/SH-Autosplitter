@@ -1,6 +1,6 @@
 # Installation
 
-Drop **asl-help** to "...\LiveSplit\Components" folder (Restart livesplit after that)
+Drop **asl-help** to "...\LiveSplit\Components" folder (Restart Livesplit after that)
 
 In Livesplit click **Edit layout** -> add **Scriptable Auto Splitter** component and select **SHauto_v6.asl** file
 
