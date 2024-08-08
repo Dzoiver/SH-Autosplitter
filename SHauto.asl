@@ -2,6 +2,7 @@
 // Thanks to Ero
 // This script requires asl-help component
 
+state("SUPERHOT") {}
 state("SH") {}
 
 startup
